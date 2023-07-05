@@ -76,6 +76,8 @@ Primary use: MultiPurpose Template
     .mod-breadcrumbs-mini{
         text-align: right;
     }
+
+    .LOGO{ max-width: 150px !important;}
     
 }
 @media only screen and (max-width: 1199px) {
@@ -91,6 +93,8 @@ Primary use: MultiPurpose Template
     .split-section-wrapper {
         padding: 0 50px;
     }
+
+    .LOGO{ max-width: 150px !important;}
     
 }
 
@@ -157,6 +161,8 @@ Primary use: MultiPurpose Template
     .lp-title, .lp-author{
         font-size: 13px;
     }
+
+    .LOGO{ max-width: 150px !important;}
 
 }
   
@@ -238,7 +244,9 @@ Primary use: MultiPurpose Template
     }
     .countdown-number > b{
         bottom: 18px;
-    }   
+    }
+
+    .LOGO{ max-width: 150px !important;}
     
 }
   
@@ -340,6 +348,8 @@ Primary use: MultiPurpose Template
         top: 17px;
         right: 17px;
     }
+
+    .LOGO{ max-width: 150px !important;}
 
 }
 
@@ -572,6 +582,8 @@ Primary use: MultiPurpose Template
         font-size: 110%;
         line-height: 1.2;
     }
+
+    .LOGO{ max-width: 150px !important;}
 }
 
 
@@ -603,6 +615,7 @@ Primary use: MultiPurpose Template
     }
     .hs-line-2{
         font-size: 28px;
+        font-weight: 400;
     }
     .hs-line-6 {
         font-size: 15px;
@@ -630,6 +643,7 @@ Primary use: MultiPurpose Template
     
     .hs-line-15{
         font-size: 24px;
+        font-weight: 400;
     }
    
    .scroll-down {
@@ -807,6 +821,8 @@ Primary use: MultiPurpose Template
     .fm-search {
         width: 200px;
     }
+
+    .LOGO{ max-width: 150px !important;}
 }
 
 
@@ -819,6 +835,8 @@ Primary use: MultiPurpose Template
       .nav-social-links{
           display: none;
       }
+
+    .LOGO{ max-width: 150px !important;}
 }
 
 
@@ -833,6 +851,8 @@ Primary use: MultiPurpose Template
         position: static;
         width: auto;
     }
+
+    .LOGO{ max-width: 150px !important;}
 }
 
 
