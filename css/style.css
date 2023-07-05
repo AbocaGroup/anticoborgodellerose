@@ -1088,7 +1088,7 @@ a.btn-mod:focus{
 .home-text{
     display: table-cell;
     height: 100%;
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
 /* Scroll down icon */

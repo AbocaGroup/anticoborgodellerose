@@ -836,7 +836,7 @@ Primary use: MultiPurpose Template
           display: none;
       }
 
-    .LOGO{ max-width: 150px !important;}
+    .LOGO{ max-width: 100px !important;}
 }
 
 
@@ -852,7 +852,7 @@ Primary use: MultiPurpose Template
         width: auto;
     }
 
-    .LOGO{ max-width: 150px !important;}
+    .LOGO{ max-width: 130px !important;}
 }
 
 
