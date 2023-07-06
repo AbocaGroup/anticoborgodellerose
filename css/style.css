@@ -1523,6 +1523,10 @@ a.bg-video-button-muted{
 
 /* Logo (in navigation panel)*/
 
+
+
+.LOGO{ max-width: 240px !important;}
+
 .nav-logo-wrap{
     float: left;
     margin-right: 20px;
@@ -4200,7 +4204,7 @@ a.logo:hover{
 .footer-copy{
     margin-bottom: 5px;
     text-transform: uppercase;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.2em;
 }
 .footer-made{
     font-size: 11px;
