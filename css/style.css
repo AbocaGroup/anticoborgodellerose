@@ -417,6 +417,7 @@ a.WHITE{
 }
 
 h1,h2,h3,h4,h5,h6{
+    font-family: Petrona, serif;
     margin-bottom: 1.3em;
     line-height: 1.4;
     font-weight: 400;
@@ -492,7 +493,7 @@ hr.white{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: Lato, Prompt, arial, sans-serif;
+    font-family: Lato, Prompt, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
@@ -1555,7 +1556,7 @@ a.bg-video-button-muted{
 }
 .logo,
 a.logo:hover{
-    font-family: Dosis, arial, sans-serif;
+    Lato, Prompt, sans-serif;
     font-size: 18px;
     font-weight: 400 !important;
     text-transform: uppercase;
