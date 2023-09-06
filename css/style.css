@@ -12,6 +12,8 @@ Primary use: MultiPurpose Template
 @import "et-line.css";
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Dosis:300,400,700);
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Petrona:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -395,7 +397,7 @@ img:not([draggable]), embed, object, video{
 body{
     color: #C24E5C;
     font-size: 14px;
-    font-family: Prompt, arial, sans-serif;
+    font-family: Lato, Prompt, sans-serif;
     line-height: 1.6;    
     -webkit-font-smoothing: antialiased;
 }
@@ -490,12 +492,12 @@ hr.white{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: Prompt, arial, sans-serif;
+    font-family: Lato, Prompt, arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
 .serif{
-    font-family: "Times New Roman", Times, serif;
+    font-family: Petrona, serif;
     font-style: italic;
     font-weight: normal;
 }
